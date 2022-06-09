@@ -1,7 +1,8 @@
-baseURL = '/'
+baseURL = ''
 languageCode = 'vi-vn'
 theme = 'PaperMod'
 title = "iamqh's Blog"
+relativeURLs = true
 
 [params]
 DateFormat = "January 2, 2006"
