@@ -45,4 +45,4 @@ Strategies to allocate Spot Instances:
 * deversified: distributed across all pools (great for availability, long workloads)
 * capacityOptimized: pool with the optimal capacity for the number of instances
 
-<u><i>Spot Fleets allow us to automatically request Spot Instances with the lowest price</i></u>
+<u>Spot Fleets allow us to automatically request Spot Instances with the lowest price</u>
