@@ -1,4 +1,4 @@
-baseURL = 'https://iamqh.github.io'
+baseURL = '/'
 languageCode = 'vi-vn'
 theme = 'PaperMod'
 title = "iamqh's Blog"
