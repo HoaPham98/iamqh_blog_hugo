@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'http://blog.iamqh.me'
 languageCode = 'vi-vn'
 theme = 'PaperMod'
 title = "iamqh's Blog"
