@@ -24,7 +24,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify -b https://iamqh.github.io
 
       - name: Pushes to another repository
         uses: cpina/github-action-push-to-another-repository@main
