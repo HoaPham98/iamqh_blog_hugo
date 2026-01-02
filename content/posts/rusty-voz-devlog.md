@@ -40,11 +40,11 @@ Thay vì dùng WebView, mình xây dựng một bộ parser để chuyển đổ
 
 ## 3. Screenshots 📸
 
-*(Chỗ này để chèn ảnh demo app)*
+Dưới đây là một số màn hình demo của app đang chạy thực tế:
 
-| Discussion List | Dark Mode Reading | Reply Composer |
-| --------------- | ----------------- | -------------- |
-| ![List](link_to_img_1) | ![Reading](link_to_img_2) | ![Reply](link_to_img_3) |
+| Forum List View | Native Thread Rendering - Post 1 | Native Thread Rendering - Post 2 | Native Thread Rendering - Post 3 |
+| --------------- | -------------------------------- | -------------------------------- | -------------------------------- |
+| ![Forum List](/rusty-voz/screenshot/screenshot_forum.jpg) | ![Thread View 1](/rusty-voz/screenshot/screenshot_native_thread.jpg) | ![Thread View 2](/rusty-voz/screenshot/screenshot_native_thread_2.jpg) | ![Thread View 3](/rusty-voz/screenshot/screenshot_native_thread_3.jpg) |
 
 ## 4. TODO List 📝
 
