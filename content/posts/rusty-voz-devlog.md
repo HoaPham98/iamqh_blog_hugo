@@ -60,7 +60,7 @@ Dự án vẫn đang tiếp tục phát triển. Đây là lộ trình sắp t�
 
 Anh em có thể tải bản build mới nhất tại đây (Hỗ trợ Android & iOS):
 
--   **Android (APK)**: [Link Github Release]
+-   **Android (APK)**: https://github.com/iampqh/rusty-voz/releases
 
 ---
 *Built with ❤️ using Flutter & Rust.*
