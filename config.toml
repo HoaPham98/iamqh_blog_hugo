@@ -66,6 +66,12 @@ url = "/about/"
 weight = 10
 
 [[menu.main]]
+identifier = "rusty-voz"
+name = "Rusty Voz"
+url = "/tags/rusty-voz/"
+weight = 6
+
+[[menu.main]]
 identifier = "tags"
 name = "Tags"
 url = "/tags/"
@@ -75,7 +81,8 @@ weight = 20
 identifier = "everyday"
 name = "Everyday"
 url = "/everyday/"
-weight = 6
+weight = 7
+
 [[menu.main]]
 name = "Archive"
 identifier = "archives"
