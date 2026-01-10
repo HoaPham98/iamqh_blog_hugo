@@ -56,7 +56,9 @@ GitHub repo (nếu ai muốn tham khảo): https://github.com/HoaPham98/voz-rust
 
 ### Thách thức lớn nhất: Parsing thread
 
-**Parsing thread**. Mình đã bỏ tận 2 năm =]]. Cái moment đó thực sự khiến mình muốn bỏ. Nhưng rồi... tổ tiên mách bảo, nên mình lại tiếp tục.
+**Parsing thread**. Mình đã bỏ tận 2 năm =]]. Cái moment đó thực sự khiến mình muốn bỏ.
+
+Ngoài khó ra thì... một phần là do bận. Nhưng tại sao lại quay lại thời điểm này? Một phần là do đã có AI, muốn luyện vibe coding nữa, hehe.
 
 ### Anti-bot?
 
