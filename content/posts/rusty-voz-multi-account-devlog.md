@@ -1,7 +1,10 @@
 ---
-title: Flutter Rusty Voz - Multi-Account & Rust Power 🔄🦀
+title: "#3: Flutter Rusty Voz - Multi-Account & Rust Power 🔄🦀"
 date: 2026-01-10 7:30:00
 tags: ["devlog", "rusty-voz", "rust", "flutter"]
+series: ["rusty-voz-devlog"]
+aliases:
+  - /rust-voz/
 ---
 
 Chào anh em, ở bài viết trước mình đã có hứa (nhá hàng) về tính năng **Account Manager** trong TODO list. Vậy hôm nay mình sẽ kể câu chuyện về hành trình implement **Multi-Account** cho *Flutter Rusty Voz*, và tại sao việc dùng Rust lại là "vũ khí bí mật" giúp mình giải quyết bài toán này một cách elegant.

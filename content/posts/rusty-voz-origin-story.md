@@ -1,7 +1,10 @@
 ---
-title: Flutter Rusty Voz - Lý Do & Sự Ra Đời 🌱🦀
+title: "#1: Flutter Rusty Voz - Lý Do & Sự Ra Đời 🌱🦀"
 date: 2025-12-25 00:00:00
 tags: ["devlog", "rusty-voz", "rust", "flutter", "origin-story"]
+series: ["rusty-voz-devlog"]
+aliases:
+  - /rust-voz/
 ---
 
 Chào anh em, trước khi đi sâu vào kỹ thuật ở những bài viết sau, mình muốn kể chuyện về **lý do** tại sao lại có *Flutter Rusty Voz*. Đây là câu chuyện về một dự án bắt đầu từ curiosity, đi qua những moment "muốn bỏ cuộc", và cho đến nay... vẫn mãi mãi WIP.

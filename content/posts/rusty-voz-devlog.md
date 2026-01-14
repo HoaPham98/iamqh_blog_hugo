@@ -1,7 +1,10 @@
 ---
-title: Flutter Rusty Voz - Hacking the Mechanics & Native Experience 🛠️🦀
+title: "#2: Flutter Rusty Voz - Hacking the Mechanics & Native Experience 🛠️🦀"
 date: 2026-01-01 16:10:34
 tags: ["devlog", "rusty-voz", "rust", "flutter"]
+series: ["rusty-voz-devlog"]
+aliases:
+  - /rust-voz/
 ---
 
 Chào anh em, hôm nay mình sẽ đào sâu hơn vào **kỹ thuật** đằng sau *Flutter Rusty Voz*. Không lan man về Flutter cơ bản, bài viết này sẽ xoáy sâu vào cách mình "reverse engineering" cơ chế của Voz để mang lại trải nghiệm Native tốt nhất.

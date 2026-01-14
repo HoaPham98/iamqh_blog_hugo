@@ -4,6 +4,11 @@ theme = 'PaperMod'
 title = "iamqh's Blog"
 relativeURLs = true
 
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
 [params]
 DateFormat = "January 2, 2006"
 ShowBreadCrumbs = true
@@ -68,7 +73,7 @@ weight = 10
 [[menu.main]]
 identifier = "rusty-voz"
 name = "Rusty Voz"
-url = "/tags/rusty-voz/"
+url = "/series/rusty-voz-devlog/"
 weight = 6
 
 [[menu.main]]
@@ -76,12 +81,6 @@ identifier = "tags"
 name = "Tags"
 url = "/tags/"
 weight = 20
-
-[[menu.main]]
-identifier = "everyday"
-name = "Everyday"
-url = "/everyday/"
-weight = 7
 
 [[menu.main]]
 name = "Archive"

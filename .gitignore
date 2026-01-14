@@ -1,3 +1,4 @@
 public/
 .vercel
 .env*.local
+.DS_Store
