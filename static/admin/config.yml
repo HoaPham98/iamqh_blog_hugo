@@ -2,7 +2,7 @@
 backend:
   name: git-gateway
   repo: HoaPham98/iamqh_blog_hugo
-  branch: main
+  branch: master
   auth_type: pkce
   base_url: https://auth.decapbridge.com
   auth_endpoint: /sites/2e53a4d5-0739-4886-971a-d3debf682390/pkce
